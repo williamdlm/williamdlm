@@ -26,6 +26,9 @@
             <img width="38" src="./icons/typescript.svg" alt="Typescript"/>
         </td>
         <td valign="top">
+            <img src="./icons/java.svg" 
+            width="32"
+            />
             <img src="./icons/node.png" 
             width="32"
             />
