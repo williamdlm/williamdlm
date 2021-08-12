@@ -56,13 +56,12 @@
 
   <a href="https://www.linkedin.com/in/williamdlm/" target="_blank" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/williamdlm/"/></a>
-
-  
-
-
 </p>  
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamdlm&theme=vision-friendly-dark) 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=williamdlm&show_icons=true&count_private=true&theme=vision-friendly-dark)
+<div>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamdlm&theme=vision-friendly-dark"/>
+
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=williamdlm&show_icons=true&count_private=true&theme=vision-friendly-dark"/>
+<div>
