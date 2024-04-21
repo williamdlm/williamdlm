@@ -29,6 +29,9 @@
             <img src="./icons/java.svg" 
             width="32"
             />
+            <img src="./icons/icons8-spring-boot.svg" 
+            width="32"
+            />
             <img src="./icons/node.png" 
             width="32"
             />
