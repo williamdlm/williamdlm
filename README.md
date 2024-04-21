@@ -37,7 +37,10 @@
             />
             <img src="./icons/my-sql.svg"
             width="32"
-            />  
+            />
+            <img src="./icons/hapi_fhir.png"
+            width="32"
+            />
         </td>
         <td valign="top">
             <img src="./icons/git.svg" 
