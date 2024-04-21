@@ -8,7 +8,8 @@
     <thead>
         <th style="border-right: .2px solid rgba(255, 255, 255, .5); border-left:.2px solid rgba(255, 255, 255, .5)"><center>Frontend</center></th>
         <th style="border-right: .2px solid rgba(255, 255, 255, .5)">Backend</th>
-        <th style="border-right: .2px solid rgba(255, 255, 255, .5)"> Tools </th>
+        <th style="border-right: .2px solid rgba(255, 255, 255, .5)">Tests </th>
+        <th style="border-right: .2px solid rgba(255, 255, 255, .5)">Tools </th>
     </thead>
     <tbody>
         <td valign="top">
@@ -21,9 +22,9 @@
             <img src="./icons/javascript.svg" 
             width="32"
           />
-            <img width="38" src="./icons/react.svg" alt="React"/>
-            <img width="38" src="./icons/nextjs.svg" alt="Nextjs"/>
-            <img width="38" src="./icons/typescript.svg" alt="Typescript"/>
+            <img width="32" src="./icons/react.svg" alt="React"/>
+            <img width="32" src="./icons/nextjs.svg" alt="Nextjs"/>
+            <img width="32" src="./icons/typescript.svg" alt="Typescript"/>
         </td>
         <td valign="top">
             <img src="./icons/java.svg" 
@@ -38,8 +39,16 @@
             <img src="./icons/my-sql.svg"
             width="32"
             />
-            <img src="./icons/hapi_fhir.png"
+            <img src="./icons/oracle-icon.png"
             width="32"
+            />
+            <img src="./icons/hapi_fhir.png"
+            width="32" height="38"
+            />
+        </td>
+        <td valign="top">
+            <img src="./icons/junit_5_icon.png" 
+            width="40"
             />
         </td>
         <td valign="top">
@@ -47,6 +56,9 @@
             width="32"
             />
             <img src="./icons/vscode.svg" 
+            width="32"
+            />
+            <img src="./icons/IntelliJ_IDEA_Icon.svg" 
             width="32"
             />
         </td>
