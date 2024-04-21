@@ -1,6 +1,6 @@
 <h1 align=center> Hi there, I'm William Mota👋 </h1>
 
-<p align=center> Computer Engineering at UniFBV and enthusiastic on tecnology live in Pernambuco, Brazil looking for opportunities </p>
+<p align=center>Computer Engineering graduate from UniFBV, enthusiastic about technology, residing in Pernambuco, Brazil, and actively seeking opportunities. With over 5 years of experience in the healthcare sector, specializing in developing hospital system integrations using technologies such as HL7 and HAPI FHIR.</p>
 
 
 ### 📚 Developing Skills
